@@ -1,0 +1,95 @@
+ADBMDTS.mia
+prereq.dfm
+prereq.dfm.miaf
+componentstree.dfm
+componentstree.dfm.miaf
+wizard.dfm
+wizard.dfm.miaf
+welcome.dfm
+welcome.dfm.miaf
+startmenu.dfm
+startmenu.dfm.miaf
+setuptype.dfm
+setuptype.dfm.miaf
+registration.dfm
+registration.dfm.miaf
+readme.dfm
+readme.dfm.miaf
+startinstallation.dfm
+startinstallation.dfm.miaf
+progressprereq.dfm
+progressprereq.dfm.miaf
+destination.dfm
+destination.dfm.miaf
+finish.dfm
+finish.dfm.miaf
+licensecheck.dfm
+licensecheck.dfm.miaf
+maintenance.dfm
+maintenance.dfm.miaf
+progress.dfm
+progress.dfm.miaf
+$
+$
+$
+$
+1
+4
+FALSE
+O:\Downloads\ADBMDTS
+Elotek
+ADBMDTS
+{bc015360-6ff8-4203-9f17-f9d4b91502a2}
+{0169614a-110d-4532-904a-670647d49573}
+1.0.0.0
+English
+ADBMDTS
+ADBMDTS
+Elotek
+ADBMDTS
+{08ca77f5-1580-4963-bc7d-05f9e0ee4a42}
+Elotek
+Elotek
+http://www.elotek.com
+http://www.elotek.com
+All Rights Reserved
+FALSE
+
+TRUE
+FALSE
+
+
+
+
+UAC=asInvoker
+$
+$
+
+
+
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\InstallAware\InstallAutogen.mia
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\InstallAware\UninstallAutogen.mia
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\InstallAware\PostInstallAutogen.mia
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\InstallAware\FinishAutogen.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\checkmsi31.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\setupmsi31.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\checknet4aip_client_x86.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\setupnet4aip_client_x86.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\checknet4aip_x86.mia
+C:\Program Files (x86)\InstallAware\InstallAware 17\runtimes\setupnet4aip_x86.mia
+$
+FALSE
+
+FALSE
+FALSE
+FALSE
+FALSE

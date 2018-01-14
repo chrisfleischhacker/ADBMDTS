@@ -1,0 +1,8 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.AboutBox.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\SystemTrayApp\obj\x86\Debug\SystemTrayApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\bin\Debug\WindowsApplication.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\bin\Debug\WindowsApplication.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\ADBMDTS.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\ADBMDTS.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\ADBMDTS.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\ADBMDTS.AboutBox.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\bin\Debug\WinSCP.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\bin\Debug\WindowsApplication.exe.config
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\ADBMDTS\obj\x86\Debug\ADBMDTS.MessageBox.resources
